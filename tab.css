@@ -1,0 +1,27 @@
+h1 { 
+    color:firebrick;
+}
+
+
+body {
+    background-color:floralwhite
+}
+
+
+p {
+    color: black;
+}
+
+@media (max-width: 367px) {
+    body {
+        font-size: 20px;
+          }
+    h1{ 
+    font-size: 35px;
+    }
+    
+    img {
+            width: 120%;
+    height: auto;
+    }
+}
